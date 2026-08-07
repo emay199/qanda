@@ -1,0 +1,14 @@
+# Temp files
+~$*
+
+# Office documents (không push)
+*.docx
+*.xlsx
+*.txt
+
+# Agent config (local only)
+.agent/
+
+# OS
+.DS_Store
+Thumbs.db
